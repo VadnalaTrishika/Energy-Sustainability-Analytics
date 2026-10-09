@@ -38,7 +38,7 @@ The project uses a synthetic sample dataset covering five sample stores during 2
 4. Use the store and date slicers to explore the data.
 
 ## Screenshot
-See `images/dashboard.png` for a preview of the report.
+See `images-dashboard.png` for a preview of the report.
 
 ## Future Improvements
 - Add energy-use intensity (EUI) analysis.
